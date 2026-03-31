@@ -6,7 +6,7 @@ body {
 
 .hero {
   height: 100vh;
-  background: linear-gradient(to right, #9c5fff, #bf7bfe);
+  background: linear-gradient(to right, #a833f7, #af69f1);
   color: white;
   display: flex;
   flex-direction: column;
